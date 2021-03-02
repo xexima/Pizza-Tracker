@@ -1,6 +1,10 @@
 # Pizza-Tracker
 #Advance Programming Pizza Project
 
+image::pizzalogo.png[alt=logo,width=250px][orientation=portrait]
+
+
+
 :PizzaTracker_Website: PizzaTracker
 :PizzaTracker_ENV: Staging
 :PizzaTracker_URL: http://asalbug.it.pointpark.edu/
