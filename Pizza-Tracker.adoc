@@ -1,0 +1,26 @@
+# Pizza-Tracker
+#Advance Programming Pizza Project
+
+# What is the Pizza Tracker?
+Website to order pizza with live time tracker.
+
+# What OS does Pizza Tracker Reside on?
+It's an native HTML website that can be accessed through any mobile browser or regular web browser.
+
+
+# What Enviorment was the App was the App Developed in?
+ Github
+ Visual Studio
+ notepad
+
+
+
+# What Programming Languages were used?
+HTML
+CSS
+JavaScript
+Jquery
+
+
+
+
