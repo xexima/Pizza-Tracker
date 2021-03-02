@@ -1,6 +1,12 @@
 # Pizza-Tracker
 #Advance Programming Pizza Project
 
+:PizzaTracker_Website:PizzaTracker
+:PizzaTracker_ENV: Staging
+:PizzaTracker_URL: http://asalbug.it.pointpark.edu/
+:PizzaTracker_STATUS: OFFLINE
+:PizzaTracker_VERSION: 0.1
+
 # What is the Pizza Tracker?
 Website to order pizza with live time tracker.
 
@@ -22,5 +28,12 @@ JavaScript
 Jquery
 
 
+## Application Environment Details
 
+[grid="rows",format="csv"]
+
+|==========================
+App,Location,Environment,URL,Status,Version
+`{PizzaTracker_Website}`,`{PizzaTracker_ENV`},`{PizzaTracker_URL}`,`{PizzaTracker_STATUS}`,`{PizzaTracker_VERSION}`
+|==========================
 
