@@ -31,9 +31,9 @@ Jquery
 ## Application Environment Details
 
 [grid="rows",format="csv"]
-
+[options="header", cols="^,<,<s,<,>m"]
 |==========================
 App,Location,Environment,URL,Status,Version
-`{PizzaTracker_Website}`,`{PizzaTracker_ENV`},`{PizzaTracker_URL}`,`{PizzaTracker_STATUS}`,`{PizzaTracker_VERSION}`
+`{PizzaTracker_Website}`,`{PizzaTracker_ENV}`,`{PizzaTracker_URL}`,`{PizzaTracker_STATUS}`,`{PizzaTracker_VERSION}`
 |==========================
 
