@@ -37,3 +37,11 @@ App,Location,Environment,URL,Status,Version
 `{PizzaTracker_Website}`,`{PizzaTracker_ENV}`,`{PizzaTracker_URL}`,`{PizzaTracker_STATUS}`,`{PizzaTracker_VERSION}`
 |==========================
 
+#GitHub Process Strategy 
+image::Github-process.jpg[alt=logo,width=200px][orientation=portrait]
+
+
+
+
+
+
