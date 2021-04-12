@@ -1,0 +1,153 @@
+.u-section-1 {
+  background-image: url("images/ground-classic-italian-pizza-with-tomatoes-pepper-vegetables-sauce-mozarella-cheese-dark-kitchen-table-copy-space_90380-947.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 825px;
+}
+
+.u-section-1 .u-text-1 {
+  line-height: 1.1;
+  margin: 40px 17px 60px 855px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 680px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -445px;
+    margin-right: 315px;
+    margin-left: 743px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -331px;
+    margin-right: 425px;
+    margin-left: 662px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 391px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -238px;
+    margin-right: 461px;
+    margin-left: 572px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 246px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -135px;
+    margin-right: 501px;
+    margin-left: 472px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 458px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 9px 272px 0 188px;
+}
+
+.u-section-2 .u-form-1 {
+  width: 570px;
+  margin: 13px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+}
+
+.u-section-2 .u-text-2 {
+  margin: -226px 272px 60px 188px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 172px;
+    margin-left: 88px;
+  }
+
+  .u-section-2 .u-form-1 {
+    margin-top: -27px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -409px;
+    margin-right: 172px;
+    margin-left: 88px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 40px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 40px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-form-1 {
+    width: 340px;
+    margin-top: -14px;
+  }
+
+  .u-section-2 .u-form-group-1 {
+    width: 100%;
+  }
+
+  .u-section-2 .u-form-group-2 {
+    width: 100%;
+  }
+}
